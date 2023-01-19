@@ -1,6 +1,5 @@
 # provider_example
 
-## Provider example
 
 # App Description
   A brief about provider and how to use it with example.
