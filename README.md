@@ -1,16 +1,25 @@
 # provider_example
 
-A new Flutter project.
+## Provider example
 
-## Getting Started
+# App Description
+  A brief about provider and how to use it with example.
+# Features
 
-This project is a starting point for a Flutter application.
+- Consumer Example.
+- Selector Example.
+- Provider of Example.
+- Watch & Read Example.
+- MultiProvider Example.
+- Example (Cart).
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+# PlugIn Use
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Please make sure you add this plugins for running this.
+
+- [provider](https://pub.dev/packages/provider) 
+
+
+
+
